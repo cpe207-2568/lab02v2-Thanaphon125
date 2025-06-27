@@ -1,0 +1,14 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    background-image: url('https://thanaphon125.github.io/portfolio/assets/img/%E0%B9%84%E0%B8%AE%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.jpg');
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+
+.box-profile {
+    background-size: cover;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px !important;
+}
